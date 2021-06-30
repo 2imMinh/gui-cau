@@ -6,11 +6,8 @@ const CONFIG = {
     desc: 'Inbox làm quen tí nhỉ ... ',
     btnYes: 'Ok lunn',
     btnNo: 'Không, còn lâu',
-    question:'Add inbox luôn nhỉ https://www.facebook.com/profile.php?id=100011194722444',
-    btnReply: 'Gửi cho tuii',
-    reply: '',
     mess: 'Hehe thanks',
     messDesc: 'Hẹn gặp ở trường nhóe!!!',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/messages/t/100011194722444'
+    messLink: 'https://www.facebook.com/profile.php?id=100011194722444'
 }
