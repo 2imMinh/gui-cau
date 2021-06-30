@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Không, còn lâu',
     question:'Add inbox luôn nhỉ https://www.facebook.com/profile.php?id=100011194722444',
     btnReply: 'Gửi cho tuii',
-    reply: 'Xin luôn in4 nhé',
+    reply: '',
     mess: 'Hehe thanks',
     messDesc: 'Hẹn gặp ở trường nhóe!!!',
     btnAccept: 'Okiiiii lun <3',
