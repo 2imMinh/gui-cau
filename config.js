@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Chỉ có thể là người mẫu :v',
     question:'Tại sao cậu lại trả lời đúng xuất sắc như vậy được ??? <3',
     btnReply: 'Gửi cho tớ <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Vì E53 là tuyệt vời nhất !!!!',
     mess: 'Mình biết mà 🥰. Đúng là người phụ nữ xinh nhất trong lòng mình 😘😘',
     messDesc: 'Hãy nhận 1 phần quà nho nhỏ nhéeeeeee',
     btnAccept: 'Okiiiii lun <3',
