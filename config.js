@@ -8,9 +8,9 @@ const CONFIG = {
     btnNo: 'Chỉ có thể là người mẫu :v',
     question:'Thế cậu có yêu lớp mình không ??? <3',
     btnReply: 'Gửi cho tớ <3',
-    reply: 'Vì E53 là tuyệt vời nhất !!!!',
+    reply: 'Tất nhiên là có rồi !!!!',
     mess: 'Mình biết mà 🥰. Đúng là người phụ nữ xinh nhất trong lòng mình 😘😘',
-    messDesc: 'Hãy nhận 1 phần quà nho nhỏ nhéeeeeee',
+    messDesc: 'Hãy nhận 1 phần quà nho nhỏ nhân ngày 20/10 nhéeeeeee',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com'
 }
