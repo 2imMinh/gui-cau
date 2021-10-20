@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Đúng là người phụ nữ xinh nhất trong lòng mình 😘😘',
     messDesc: 'Hãy nhận 1 phần quà nho nhỏ nhân ngày 20/10 nhéeeeeee',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'file:///C:/Users/Admin/Documents/Zalo%20Received%20Files/From%20the%20boys%20with%203.pdf'
+    messLink: 'https://m.facebook.com/story.php?story_fbid=1470995126616964&id=100011194722444'
 }
